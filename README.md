@@ -1,4 +1,4 @@
-Affan: security config \n
-Gagas: entity \n
-Joko: service \n
-Shahdat: controller \n
+Affan: security config
+Gagas: entity
+Joko: service
+Shahdat: controller
