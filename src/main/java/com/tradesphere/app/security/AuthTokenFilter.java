@@ -1,5 +1,6 @@
 package com.tradesphere.app.security;
 
+import com.tradesphere.app.service.UserService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
